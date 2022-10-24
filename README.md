@@ -9,7 +9,7 @@ where ![equation]\mathbf{U}_{L1}) and ![equation](https://latex.codecogs.com/svg
 
 ![equation](https://latex.codecogs.com/svg.image?\mathbf{U}_{L1}) is taken from L1-PCA. The L1-singular values and right singular vectors are found by solving the following L1-reorthogonalization problem
 
-![equation](https://latex.codecogs.com/svg.image?(\mathbf{\Sigma}_{L1}, \mathbf{V}_{L1} )
+![equation](https://latex.codecogs.com/svg.image?\mathbf{\Sigma}_{L1}\mathbf{V}_{L1}^T=&space;)
 ---
 
 * IEEEXplore article: https://ieeexplore.ieee.org/document/9048980
